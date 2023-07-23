@@ -11,4 +11,6 @@ function fibonacci(num) {
 	}
     return curr;
 }
+// var n = prompt("Enter the number of elements");
+// alert(fibonacci(n));
 module.exports = fibonacci;
